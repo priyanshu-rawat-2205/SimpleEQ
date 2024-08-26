@@ -1,0 +1,1 @@
+#A Simple EQ Plugin to test audio workspace and functionality and to polish some C++ skills
